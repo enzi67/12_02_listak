@@ -1,6 +1,6 @@
 import random
 
-numbers = [random.randint(-60, 100) for _ in range(50)]
+numbers = [random.randint(-60, 100) for num in range(50)]
 
 print("3. Írjuk ki az első 3-mal és 7-tel osztható szám indexét!")
 
