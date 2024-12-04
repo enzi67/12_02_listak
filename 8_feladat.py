@@ -1,6 +1,6 @@
 import random
 
-numbers = [random.randint(-60, 100) for _ in range(50)]
+numbers = [random.randint(-60, 100) for numero in range(50)]
 
 print("8. Írjuk ki a sorozatban található 17-tel vagy 18-cal osztható számok négyzetét!")
 
