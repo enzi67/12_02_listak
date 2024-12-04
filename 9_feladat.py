@@ -1,6 +1,6 @@
 import random
 
-numbers = [random.randint(-60, 100) for _ in range(50)]
+numbers = [random.randint(-60, 100) for numero in range(50)]
 
 print("9. Van-e a sorozatban olyan negatív szám, amelynek az összes szomszédja pozitív?")
 
