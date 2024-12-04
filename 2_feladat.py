@@ -1,6 +1,6 @@
 import random
 
-numbers = [random.randint(-60, 100) for _ in range(50)]
+numbers = [random.randint(-60, 100) for num in range(50)]
 
 print("2. Írjuk ki az utolsó 5-tel vagy 7-tel osztható szám indexét!")
 
