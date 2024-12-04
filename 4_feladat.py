@@ -1,6 +1,6 @@
 import random
 
-numbers = [random.randint(-60, 100) for _ in range(50)]
+numbers = [random.randint(-60, 100) for numim in range(50)]
 
 print("4. Igaz-e, hogy minden szám negatív?")
 
