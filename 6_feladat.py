@@ -1,6 +1,6 @@
 import random
 
-numbers = [random.randint(-60, 100) for _ in range(50)]
+numbers = [random.randint(-60, 100) for szam in range(50)]
 
 print("6. Hány 18-cal osztható szám található a sorozatban?")
 
