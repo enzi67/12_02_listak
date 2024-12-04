@@ -1,6 +1,6 @@
 import random
 
-numbers = [random.randint(-60, 100) for _ in range(50)]
+numbers = [random.randint(-60, 100) for mmamaaaa in range(50)]
 
 print("5. Van-e a sorozatban olyan szám, amelyik 1 és 10 közé esik?")
 
